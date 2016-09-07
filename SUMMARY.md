@@ -11,4 +11,5 @@
 * Json
 * Maven环境配置
 * Qt安装配置
+* xmpp
 
