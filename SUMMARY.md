@@ -9,7 +9,7 @@
 * [electron之Windows下使用 html js css 开发桌面应用程序](个人博客/electron之Windows下使用 html js css 开发桌面应用程序.md)
 * [jQuery](个人博客/jquery.md)
 * [Json](个人博客/json.md)
-* Maven环境配置
+* [Maven环境配置](个人博客/Maven环境配置.md)
 * Qt安装配置
 * xmpp
 * 搭建个人博客
