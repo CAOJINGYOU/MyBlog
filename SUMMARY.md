@@ -10,7 +10,7 @@
 * [jQuery](个人博客/jquery.md)
 * [Json](个人博客/json.md)
 * [Maven环境配置](个人博客/Maven环境配置.md)
-* Qt安装配置
+* [Qt安装配置](个人博客/Qt安装配置.md)
 * xmpp
 * 搭建个人博客
 * 我喜爱的火狐浏览器插件
