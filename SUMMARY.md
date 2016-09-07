@@ -14,5 +14,5 @@
 * [xmpp](个人博客/xmpp.md)
 * [搭建个人博客](个人博客/搭建个人博客.md)
 * [我喜爱的火狐浏览器插件](个人博客/我喜爱的火狐浏览器插件.md)
-* 欢迎使用CSDN-markdown编辑器
+* [欢迎使用CSDN-markdown编辑器](个人博客/欢迎使用CSDN-markdown编辑器.md)
 
