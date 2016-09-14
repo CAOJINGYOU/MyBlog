@@ -15,10 +15,10 @@
 * [搭建个人博客](个人博客/搭建个人博客.md)
 * [我喜爱的火狐浏览器插件](个人博客/我喜爱的火狐浏览器插件.md)
 * [CSDN-markdown编辑器使用说明](个人博客/CSDN-markdown编辑器使用说明.md)
-* [C# 进程间通信](个人博客/C# 进程间通信.md)
+* [C# 进程间通信](个人博客/CSharp进程间通信.md)
 * [C++智能指针](个人博客/C++智能指针.md)
 * [Github Pages和Hexo创建静态博客网站](个人博客/Github Pages和Hexo创建静态博客网站.md)
 * [Github pages + jekyll 博客快速搭建](个人博客/Github pages + jekyll 博客快速搭建.md)
-* [C# 视频编辑](个人博客/C# 视频编辑.md)
+* [C# 视频编辑](个人博客/CSharp视频编辑.md)
 * [我喜欢的Notepad++插件](个人博客/我喜欢的Notepad++插件.md)
 
