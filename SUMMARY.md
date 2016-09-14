@@ -19,4 +19,5 @@
 * [C++智能指针](个人博客/C++智能指针.md)
 * [Github Pages和Hexo创建静态博客网站](个人博客/Github Pages和Hexo创建静态博客网站.md)
 * [Github pages + jekyll 博客快速搭建](个人博客/Github pages + jekyll 博客快速搭建.md)
+* C# 视频编辑
 
