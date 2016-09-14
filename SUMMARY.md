@@ -20,5 +20,5 @@
 * [Github Pages和Hexo创建静态博客网站](个人博客/Github Pages和Hexo创建静态博客网站.md)
 * [Github pages + jekyll 博客快速搭建](个人博客/Github pages + jekyll 博客快速搭建.md)
 * [C# 视频编辑](个人博客/C# 视频编辑.md)
-* 我喜欢的Notepad++插件
+* [我喜欢的Notepad++插件](个人博客/我喜欢的Notepad++插件.md)
 
