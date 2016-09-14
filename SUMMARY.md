@@ -14,7 +14,7 @@
 * [xmpp](个人博客/xmpp.md)
 * [搭建个人博客](个人博客/搭建个人博客.md)
 * [我喜爱的火狐浏览器插件](个人博客/我喜爱的火狐浏览器插件.md)
-* [CSDN-markdown编辑器使用说明](个人博客/CSDN-markdown编辑器使用说明.md)
+* [CSDN-markdown编辑器使用说明](个人博客/CSDN_markdown编辑器使用说明.md)
 * [C# 进程间通信](个人博客/CSharp进程间通信.md)
 * [C++智能指针](个人博客/C++智能指针.md)
 * [Github Pages和Hexo创建静态博客网站](个人博客/Github Pages和Hexo创建静态博客网站.md)
